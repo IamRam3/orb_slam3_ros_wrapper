@@ -23,7 +23,7 @@ General guide: first, install ORB-SLAM3 normally with all of its dependencies (a
 - Clone ORB-SLAM3:
 ```
 cd ~
-git clone https://github.com/UZ-SLAMLab/ORB_SLAM3.git ORB_SLAM3
+git clone https://github.com/IamRam3/ORB_SLAM3.git ORB_SLAM3
 ```
 - Make changes to the source code if necessary to build successfully. For Ubuntu 20.04, you will need to change CMakeList from C++11 to C++14. I have incorporated the changes in [this fork](
 https://github.com/IamRam3/ORB_SLAM3).
